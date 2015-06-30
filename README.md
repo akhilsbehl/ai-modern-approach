@@ -1,2 +1,2 @@
-# AI: A modern approach
-Notes and code from reading of Russell &amp; Norvig.
+# Artificial Intelligence: A modern approach, Russell & Norvig, 1995
+Notes and code from the reading.
